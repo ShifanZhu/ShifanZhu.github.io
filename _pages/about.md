@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: subtitle: I am passionate about robot <a style='color:#B509AC;'> pose estimation </a> and <a style='color:#B509AC;'> control </a>. Please refer to my <a href="/assets/pdf/resume.pdf" target="_blank">CV</a> for details.
+subtitle: I am passionate about robot <a style='color:#B509AC;'> pose estimation </a> and <a style='color:#B509AC;'> control </a>. Please refer to my <a href="/assets/pdf/resume.pdf" target="_blank">CV</a> for details.
 
 profile:
   align: right
