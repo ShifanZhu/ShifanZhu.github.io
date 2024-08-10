@@ -21,6 +21,6 @@ social: true  # includes social icons at the bottom of the page
 
 I am a Ph.D. stduent in the Dynamic and Autonomous Robotics Systems Lab at the University of Massachusetts Amherst advised by [Donghyun Kim](https://www.cics.umass.edu/people/kim-donghyun). I am developing event camera based rapid robot pose estimation, with my research focusing on robot <a style='color:#B509AC;'>perception</a>, <a style='color:#B509AC;'>control</a>, and <a style='color:#B509AC;'>navigation</a>:
     
-  -- <a style='color:#B509AC;'><b>State estimation for safe navigation.</b></a> Developing robust state estimatio based on multi-sensors, including event camera, IMU, RGB-D cameera, etc., enabling safe and efficient guidance for robots.
+  -- <a style='color:#B509AC;'><b>State estimation under agile locomotion.</b></a> Developing robust state estimatio based on multi-sensors, including event camera, IMU, RGB-D cameera, etc., enabling safe and efficient guidance for robots.
 
   -- <a style='color:#B509AC;'><b>Navigation in complex environments.</b></a> Developing navigation system that enables robot go through complex terriens.
