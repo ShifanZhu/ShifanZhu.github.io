@@ -291,7 +291,9 @@ permalink: /AvoidEvent/
         <hr>
         <p style="text-align: center;">Our experimental results are recorded below. 
         
-
-        <a href="/assets/img/eventAvoid/eventAvoidVid.mp4"><img class='summary-img' src='/assets/img/eventAvoid/eventAvoidVid.mp4' style='width:70%;'>
+        <video class='summary-img' style='width:70%;' controls>
+            <source src="/assets/img/eventAvoid/eventAvoidVid.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
 		<br>
    
