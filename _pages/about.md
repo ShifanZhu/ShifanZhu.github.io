@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: I am passionate about robot <a style='color:#B509AC;'> pose estimation </a> and <a style='color:#B509AC;'> control </a>. Please refer to my <a href="/assets/pdf/resume.pdf" target="_blank">CV</a> for details.
+subtitle: I am passionate about robot <a style='color:#B509AC;'> pose estimation </a> in challenging conditions (highly dynamic and low light, etc.) and <a style='color:#B509AC;'> control </a>. Please refer to my <a href="/assets/pdf/resume.pdf" target="_blank">CV</a> for details.
 
 profile:
   align: right
@@ -19,8 +19,8 @@ latest_posts: false  # includes a list of the newest posts
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D. stduent in the Dynamic and Autonomous Robotics Systems Lab at the University of Massachusetts Amherst advised by [Donghyun Kim](https://www.cics.umass.edu/people/kim-donghyun). I am developing event camera based rapid robot pose estimation, with my research focusing on robot <a style='color:#B509AC;'>perception</a>, <a style='color:#B509AC;'>control</a>, and <a style='color:#B509AC;'>navigation</a>:
+I am a Ph.D. stduent in the Dynamic and Autonomous Robotics Systems Lab at the University of Massachusetts Amherst advised by [Donghyun Kim](https://www.cics.umass.edu/people/kim-donghyun). My research focuses on event camera-based <a style='color:#B509AC;'>perception</a>, <a style='color:#B509AC;'>state estimation</a>, and <a style='color:#B509AC;'>navigation</a>:
     
-  -- <a style='color:#B509AC;'><b>State estimation under agile locomotion.</b></a> Developing robust state estimatio based on multi-sensors, including event camera, IMU, RGB-D cameera, etc., enabling safe and efficient guidance for robots.
+  -- <a style='color:#B509AC;'><b>State estimation in challenging conditions.</b></a> Developing robust state estimatio based on multi-sensors, including event camera, IMU, RGB-D cameera, etc., enabling accurate and robust pose estimation for robots.
 
-  -- <a style='color:#B509AC;'><b>Navigation in complex environments.</b></a> Developing navigation system that enables robot go through complex terriens.
+  -- <a style='color:#B509AC;'><b>Navigation in complex environments.</b></a> Developing navigation system that enables robot traverse complex terriens.
