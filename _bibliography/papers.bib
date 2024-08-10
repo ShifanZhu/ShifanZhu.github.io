@@ -1,5 +1,38 @@
 ---
 ---
+
+CEAR: Comprehensive Event Camera Dataset for Rapid Perception of Agile Quadruped Robots
+
+@article{zhu2024cear,
+  bibtex_show={true},
+  preview={},
+  abbr={RAL},
+  abstract={When legged robots perform agile movements, traditional RGB cameras often produce blurred images, posing a challenge for rapid perception. Event cameras have emerged as a promising solution for capturing rapid perception and coping with challenging lighting conditions thanks to their low latency, high temporal resolution, and high dynamic range. However, integrating event cameras into agile-legged robots is still largely unexplored. To bridge this gap, we introduce CEAR, a dataset comprising data from an event camera, an RGB-D camera, an IMU, a LiDAR, and joint encoders, all mounted on a dynamic quadruped, Mini Cheetah robot. This comprehensive dataset features more than 100 sequences from real-world environments, encompassing various indoor and outdoor environments, different lighting conditions, a range of robot gaits (e.g., trotting, bounding, pronking), as well as acrobatic movements like backflip. To our knowledge, this is the first event camera dataset capturing the dynamic and diverse quadruped robot motions under various setups, developed to advance research in rapid perception for quadruped robots. The CEAR dataset is available at https://daroslab.github.io/cear/ .},
+  title={CEAR: Comprehensive Event Camera Dataset for Rapid Perception of Agile Quadruped Robots},
+  author={Zhu, Shifan and Xiong, Zixun and Kim, Donghyun},
+  journal={RAL},
+  year={2024},
+  video={},
+  html={https://daroslab.github.io/cear/},
+  selected={true},
+}
+
+
+@article{guan2024impedance,
+  bibtex_show={true},
+  preview={},
+  abbr={Ubiquitous Robots},
+  abstract={Replicating the remarkable athleticism seen in animals has long been a challenge in robotics control. Although Reinforcement Learning (RL) has demonstrated significant progress in dynamic legged locomotion control, the substantial sim-to-real gap often hinders the real-world demonstration of truly dynamic movements. We propose a new framework to mitigate this gap through frequency-domain analysis-based impedance matching between simulated and real robots. Our framework offers a structured guideline for parameter selection and the range for dynamics randomization in simulation, thus facilitating a safe sim-to-real transfer. The learned policy using our framework enabled jumps across distances of 55 cm and heights of 38 cm. The results are, to the best of our knowledge, one of the highest and longest running jumps demonstrated by an RL-based control policy in a real quadruped robot. Note that the achieved jumping height is approximately 85% of that obtained from a state-of-the-art trajectory optimization method, which can be seen as the physical limit for the given robot hardware. In addition, our control policy accomplished stable walking at speeds up to 2 m/s in the forward and backward directions, and 1 m/s in the sideway direction.},
+  title={Impedance Matching: Enabling an RL-Based Running Jump in a Quadruped Robot},
+  author={Guan, Neil and Yu, Shangqun and Zhu, Shifan and Kim, Donghyun},
+  journal={Ubiquitous Robots},
+  year={2024},
+  video={},
+  html={https://arxiv.org/abs/2404.15096},
+  selected={true},
+}
+
+
 @article{zhu2021event,
   bibtex_show={true},
   preview={},
@@ -36,6 +69,7 @@ Supplemental video: },
   abbr={ICRA},
   abstract={Mapping and localization in non-static environments are fundamental problems in robotics. Most of previous methods mainly focus on static and highly dynamic objects in the environment, which may suffer from localization failure in semi-dynamic scenarios without considering objects with lower dynamics, such as parked cars and stopped pedestrians. In this paper, we introduce semantic mapping and lifelong localization approaches to recognize semi-dynamic objects in non-static environments. We also propose a generic framework that can integrate mainstream object detection algorithms with mapping and localization algorithms. The mapping method combines an object detection algorithm and a SLAM algorithm to detect semi-dynamic objects and constructs a semantic map that only contains semi-dynamic objects in the environment. During navigation, the localization method can classify observation corresponding to static and non-static objects respectively and evaluate whether those semi-dynamic objects have moved, to reduce the weight of invalid observation and localization fluctuation. Real-world experiments show that the proposed method can improve the localization accuracy of mobile robots in non-static scenarios.},
   author={Zhu, Shifan and Zhang, Xinyu and Guo, Shichun and Li, Jun and Liu, Huaping},
+  title={Lifelong Localization in Semi-Dynamic Environment}
   journal={ICRA},
   year={2021},
   video={},
