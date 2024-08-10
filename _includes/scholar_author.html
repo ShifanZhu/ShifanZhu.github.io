@@ -1,6 +1,6 @@
 {% assign author_names = entry.author %}
 {% for author in author_names %}
-{% if author.name == "Zhu, Shifan" %}
+{% if author.name == "Shifan Zhu" %}
 <b><a style="color:red">{{ author.name }}</a></b>{% if forloop.last == false %}, {% endif %}
 {% else %}
 {{ author.name }}{% if forloop.last == false %}, {% endif %}
