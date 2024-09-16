@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: I am a Ph.D. stduent in the Dynamic and Autonomous Robotics Systems Lab at the University of Massachusetts Amherst advised by [Donghyun Kim](https://www.cics.umass.edu/people/kim-donghyun). My research focuses on event camera-based <a style='color:#B509AC;'>state estimation</a>, <a style='color:#B509AC;'>perception</a>, and <a style='color:#B509AC;'>navigation</a> in challenging conditions (rapid, low-lighting conditions, etc):
+subtitle: I am a Ph.D. stduent in the Dynamic and Autonomous Robotics Systems Lab at the University of Massachusetts Amherst advised by [Donghyun Kim](https://www.cics.umass.edu/people/kim-donghyun). My research focuses on event camera-based <a style='color:#B509AC;'> state estimation </a>, <a style='color:#B509AC;'> perception </a>, and <a style='color:#B509AC;'> navigation </a> in challenging conditions (rapid, low-lighting conditions, etc).
 
 #:Please refer to my <a href="/assets/pdf/resume.pdf" target="_blank">CV</a> for details.
 
