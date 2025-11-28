@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our PresToe humanoid <a href="https://ieeexplore.ieee.org/abstract/document/10801444">paper</a> is accepted by ICRA 2024! :smile:
+Our PresToe humanoid <a href="https://ieeexplore.ieee.org/abstract/document/10801444">paper</a> is accepted by ICRA 2024!
