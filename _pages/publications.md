@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: publications
 # description: Venue color codes. <b> <a style='color:#b41c1c;'>Robotics</a> </b>, <b> <a style='color:#000080;'>machine learning and computer vision</a> </b>, <b> <a style='color:#B509AC;'>human-computer interaction</a> </b>, and <b> <a style='color:#2698BA;'>others</a> </b>.
-years: [2024, 2023, 2021] # , 1956, 1935, 1905
+years: [2026, 2025, 2024, 2023, 2021] # , 1956, 1935, 1905
 nav: true
 nav_order: 1
 ---
