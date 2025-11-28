@@ -21,7 +21,8 @@ latest_posts: false  # includes a list of the newest posts
 social: true  # includes social icons at the bottom of the page
 ---
 
-    
-  -- <a style='color:#B509AC;'><b>State estimation in challenging conditions.</b></a> Developing accurate, robust, and rapid state estimation based on multi-sensors, including event camera, IMU, RGB-D camera, etc.
+  -- <a style='color:#B509AC;'><b>Human Motion Foundation Models.</b></a> Developing autonomous mobile data collection platform and develop metrically accurate, semantically meaningful understanding of human motion in real-world environments.
 
-  -- <a style='color:#B509AC;'><b>Navigation in complex environments.</b></a> Developing navigation system that enables robot traverse complex terriens.
+  -- <a style='color:#B509AC;'><b>Invariant State Estimation in Challenging Conditions.</b></a> Developed a state-independent, time-invariant observation model that improves rapid, robust, and consistent multi-sensor state estimation using event cameras, IMUs, joint encoder and RGB-D data.
+
+  -- <a style='color:#B509AC;'><b>Event NeRF & Pose Optimization.</b></a> Developed E-BARF, the first method to jointly optimize NeRF and event-camera trajectories using only event data. Introduced a differentiable event-NeRF bundle adjustment that enables robust 3D reconstruction under extreme lighting and high-speed motion.
