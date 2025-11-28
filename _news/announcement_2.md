@@ -5,4 +5,6 @@ inline: true
 related_posts: false
 ---
 
-Our dataset paper is accepted by RAL 2024! :smile:
+Our dataset (<a href="https://ieeexplore.ieee.org/abstract/document/10592643">paper</a>) is accepted by RAL 2024! :smile:
+
+https://ieeexplore.ieee.org/abstract/document/10801444
