@@ -311,8 +311,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Yu]
-  first_name: [Shangqun]
+  last_name: [Zhu]
+  first_name: [Shifan]
 
   style: apa
   locale: en
