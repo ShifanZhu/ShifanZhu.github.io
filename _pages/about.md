@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: I am a Ph.D. student in the Dynamic and Autonomous Robotics Systems (DARoS) Lab at the University of Massachusetts Amherst, advised by <a href="https://www.umass.edu/robotics/people/donghyun-kim" style="color:#B509AC;">Donghyun Kim</a>. My research focuses on <a style='color:#B509AC;'>human-motion foundation models</a>, event-camera–based <a style='color:#B509AC;'>state estimation</a>, and <a style='color:#B509AC;'>robust perception</a> in challenging conditions such as rapid motion, low light, and extreme brightness.
 
