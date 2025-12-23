@@ -85,7 +85,7 @@ kaggle_id: # your kaggle id
 keybase_username: # your keybase user name
 lastfm_id: # your lastfm id
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
-linkedin_username: shifan-zhu-999a4b303 # your LinkedIn user name
+linkedin_username: shifanzhu # your LinkedIn user name
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 medium_username: # your Medium username
 orcid_id: 0009-0007-5278-7190 # your ORCID ID
@@ -111,7 +111,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Questions or collaborations? please feel free to contact me at shifzhu@gmail.com 😊
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
