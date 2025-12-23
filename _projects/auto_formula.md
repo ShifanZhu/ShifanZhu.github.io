@@ -2,8 +2,8 @@
 layout: page
 title: Autonomous Formula
 description: 
-img: assets/img/publication_preview/autonomous_formula.jpg
-importance: 2
+img: assets/img/autonomous_formula.jpg
+importance: 3
 category: work
 related_publications: true
 featured: true
