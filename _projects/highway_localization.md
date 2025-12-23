@@ -3,7 +3,7 @@ layout: page
 title: LiDAR-Based Vehicle Localization for Highway Scenarios via Particle Filtering
 description: 
 img: assets/img/localization_in_highway.gif
-importance: 2
+importance: 3
 category: work
 related_publications: true
 featured: true

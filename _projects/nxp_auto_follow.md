@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Autonomous Racing for the NXP Cup College Challenge
+title: NXP Cup Autonomous Racing
 description: 
 img: assets/img/nxp_auto_following_car.gif
 importance: 4

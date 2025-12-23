@@ -3,7 +3,7 @@ layout: page
 title: Autonomous Forklift: Navigation and Cargo Handling in Warehouse Environments
 description: 
 img: assets/img/auto_forklift.gif
-importance: 2
+importance: 3
 category: work
 related_publications: true
 featured: true

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Autonomous Formula
+title: 2019 Autonomous Formula Racing Challenge
 description: 
 img: assets/img/autonomous_formula.jpg
 importance: 3
