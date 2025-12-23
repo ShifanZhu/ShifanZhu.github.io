@@ -1,7 +1,7 @@
 ---
 layout: page
-title: projects
-permalink: /Projects/
+title: Projects
+permalink: /projects/
 description: My Projects Overview 
 nav: true
 nav_order: 3
